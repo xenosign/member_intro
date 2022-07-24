@@ -40,6 +40,10 @@ body {
 }
 
 /* MENU */
+
+.wrap .menu {
+  /* border: 1px solid orange; */
+}
 .wrap .menu::after {
   content: "";
   display: block;
@@ -80,6 +84,7 @@ body {
 
 .wrap .profile p {
   font: 14px/1 "orbitron";
+  color: #999;
   margin-bottom: 20px;
 }
 
